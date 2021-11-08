@@ -5,7 +5,7 @@
 
 <h1>My First Heading</h1>
 <p>My first paragraph.
-<P> et voila , MON GRAND CADEAUX D'ANNIVERSAIRE</P>
+<P>MON GRAND CADEAUX D'ANNIVERSAIRE</P>
 </p>
 
 </body>
