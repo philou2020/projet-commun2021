@@ -1,0 +1,12 @@
+ cat force.html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.
+<P>MON GRAND CADEAUX D'ANNIVERSAIRE</P>
+</p>
+
+</body>
+</html>
