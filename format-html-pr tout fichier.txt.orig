@@ -1,0 +1,16 @@
+ cat force.html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.
+<<<<<<< HEAD
+<P>remond ,raconter / MON GRAND CADEAUX D'ANNIVERSAIRE</P>
+=======
+<P>place serrer remond ,MON GRAND CADEAUX D'ANNIVERSAIRE</P>
+>>>>>>> 834d32c8529a1f389cc0b333cd85b3102806d23a
+</p>
+
+</body>
+</html>
